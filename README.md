@@ -8,8 +8,9 @@
 </h2>
 
 
-### This repository contains tutorials and editorials of Algorithms, Data Structures and different Competitive Progrmaming questions. This contains questions from popular coding platforms iwhich includes Codechef, LeetCode and Codeforces.
-### If you're practicing on the coding platforms mentioned above, also if you want to contribute those then you can add the questions in this repository.
+This repository contains tutorials and editorials of Algorithms, Data Structures and different Competitive Progrmaming questions. This contains questions from popular coding platforms iwhich includes Codechef, LeetCode and Codeforces.
+
+If you're practicing on the coding platforms mentioned above, also if you want to contribute those then you can add the questions in this repository.
 
 <br>
 
@@ -30,9 +31,9 @@ Chapter logo + Elixir logo
 
 ![Cheftober stats](https://github-readme-stats.vercel.app/api?username=abesec-codechef&show_icons=true&theme=radical) -->
 
-<h1 style="font-size: 3rem">Overview</h1>
+## Overview
 
-### The main aim of the project is to bring all the tutorials and Competitive programming questions under one repository.
+The main aim of the project is to bring all the tutorials and Competitive programming questions under one repository.
 
 <br>
 
