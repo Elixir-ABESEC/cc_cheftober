@@ -4,7 +4,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
   </a>
-</p>
 
 
 <br>
@@ -41,63 +40,50 @@ Make a pull request for your work and wait for it to be merged! Last step is opt
 
 ## Getting Started
 
-**1.**  Fork [this](repo link) repository.
+<img src='assets/fork_button.jpg' style= "width:50%; padding:10px 0 0 30px">
 
-**2.**  Clone your forked copy of the project.
+* [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository (Click the Fork button in the top right of this page)
+* Clone your fork down to your local machine
 
-```
-git clone #repo-link
-```
-
-**3.** Navigate to the project directory :file_folder: .
-
-```
-cd Cheftober
+```markdown
+git clone https://github.com/your-username/hacktoberfest.git
 ```
 
-**5.** Create a new branch.
+* Create a branch
 
-```
-git checkout -b <your_branch_name>
-```
-
-**6.** Perform your desired changes to the code base.
-
-**7.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project (updated repository).
-
-```
-git pull upstream main
+```markdown
+git checkout -b branch-name
 ```
 
-**8.** Add all the files to load on stage area
+* Make your changes (follow below tasks)
 
-```
+* Set the parent folder name with `Website name` eg: `Codeforces` and a sub-folder name with `Question name` eg: `Codeforces/Diameter of Graph/` in which you have to submit your solution code as a `.txt` or `.md` file.
+* Submit editorial of the solution. (optional)
+* Select Questions from any coding websites preferably Codechef, Codeforces or Leetcode.
+* Make sure you follow the directory structure, otherwise your PR will not be merge.
+* Comment the question URL eg: `https://codeforces.com/problemset/problem/1581/B` in solution.
+* Now [Commit](https://docs.github.com/en/github/committing-changes-to-your-project/creating-and-editing-commits/about-commits) changes to your project and push.
+
+```markdown
 git add .
+git commit -m 'Commit message'
+git push origin branch-name
 ```
-
-**9.** Commit your changes
-
+* Create a new [Pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) from your forked repository.
+* Wait for your PR review and merge approval!
+* Add your name to the `CONTRIBUTORS.md` file using the below convention:
+```markdown
+#### Name: [YOUR NAME](GitHub link)
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
 ```
-git commit -m "commit message"
-```
+* Thank you for spending your time to participate in this project! ^\_^
 
-**10.** Push the committed changes in your feature branch to your remote repo.
-```
-git push -u origin <your_branch_name>
-```
-
-**11.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repository you are supposed to make a PR to.
-
-
-**12.** Add appropriate title and description to your pull request explaining your changes and efforts done.
-
-
-**13.** Click on `Create Pull Request`.
 
 <br>
 
 <!--
-<h2 style="font-size: 3rem">Owner</h2>
 
 <br>
 
