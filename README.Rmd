@@ -1,4 +1,20 @@
-<h1 align="center">💻 Cheftober 💻</h1>
+<style type="text/css">
+
+body, td {
+   font-size: 14px;
+}
+code.r{
+  font-size: 12px;
+}
+div {
+  font-size: 5rem;
+}
+pre {
+  font-size: 12px
+}
+</style>
+
+<div> 💻 Cheftober 💻 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
