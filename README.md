@@ -26,7 +26,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## What is in this repository?
-This repository contains tutorials and editorials of Algorithms, Data Structures and different Competitive Progrmaming questions. This contains questions from popular coding platforms iwhich includes CodeChef, Leetcode and Codeforces.
+This repository contains tutorials and editorials of Algorithms, Data Structures and different Competitive Progrmaming questions. This contains questions from popular coding platforms which includes CodeChef, Leetcode and Codeforces.
 
 If you're practicing on the coding platforms mentioned above, also if you want to contribute those then you can add the questions in this repository.
 
@@ -42,11 +42,11 @@ Make a pull request for your work and wait for it to be merged! Last step is opt
 
 <img src='assets/fork_button.jpg' style= "width:50%; padding:10px 0 0 30px">
 
-* [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository (Click the Fork button in the top right of this page)
+* [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository (Click the Fork button in the top right corner of this page)
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/your-username/cc_cheftober.git
 ```
 
 * Create a branch
@@ -55,12 +55,12 @@ git clone https://github.com/your-username/hacktoberfest.git
 git checkout -b branch-name
 ```
 
-* Make your changes (follow below tasks)
+* Make your changes (follow these steps)
 
 * Set the parent folder name with `Website name` eg: `Codeforces` and a sub-folder name with `Question name` eg: `Codeforces/Diameter of Graph/` in which you have to submit your solution code as a `.txt` or `.md` file.
 * Submit editorial of the solution. (optional)
 * Select Questions from any coding websites preferably Codechef, Codeforces or Leetcode.
-* Make sure you follow the directory structure, otherwise your PR will not be merge.
+* Make sure you follow the directory structure, otherwise your PR will not be merged.
 * Comment the question URL eg: `https://codeforces.com/problemset/problem/1581/B` in solution.
 * Now [Commit](https://docs.github.com/en/github/committing-changes-to-your-project/creating-and-editing-commits/about-commits) changes to your project and push.
 
@@ -70,34 +70,13 @@ git commit -m 'Commit message'
 git push origin branch-name
 ```
 * Create a new [Pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) from your forked repository.
-* Wait for your PR review and merge approval!
+* Wait for your PR review and merge approval.
 * Add your name to the `CONTRIBUTORS.md` file using the below convention:
 ```markdown
-#### Name: [YOUR NAME](GitHub link)
+#### Name: [YOUR NAME]
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
 ```
 * Thank you for spending your time to participate in this project! ^\_^
-
-
-<br>
-
-<!--
-
-<br>
-
-Chapter logo + Elixir logo
-* [CodeChef ABESEC Chapter](Codechef linkedin profile)
-
-🔗 &nbsp;**Connect with us**
-<p align="left">
-<a href="chapter twitter link" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="CodeChef ABESEC Chapter" height="40" width="40" /></a>
-<a href="chapter linkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="CodeChef ABESEC Chapter" height="40" width="40" /></a>
-<a href="chapter insta" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="CodeChef ABESEC Chapter" height="40" width="40" /></a>
-<a href="elixir discord" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" alt="CodeChef ABESEC Chapter" height="40" width="40" /></a>
-
-![Cheftober stats](https://github-readme-stats.vercel.app/api?username=abesec-codechef&show_icons=true&theme=radical) -->
-
-<br>
 

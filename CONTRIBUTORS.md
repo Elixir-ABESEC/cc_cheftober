@@ -8,3 +8,7 @@
 - Bio: engineering student
 - Github: [Shubhcs01](https://github.com/Shubhcs01)
 
+### **Name: Tanveer Raza**
+- Place: Ghaziabad, India
+- Bio: None
+- Github: [tanveerraza789](https://www.github.com/tanveerraza789)
