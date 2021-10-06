@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 5rem"> 💻 Cheftober 💻 </p>
+<h1 align="center">💻 Cheftober 💻</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
 
 <br>
 
-<h1 align="center"> 🎃 HacktoberFest Starter Project 🎃 </h1>
+<h2 align="center"> 🎃 HacktoberFest Starter Project 🎃 </h2>
 
 <br>
 
