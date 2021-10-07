@@ -1,8 +1,8 @@
 ## The Grid Fill Problem
 You are given a N × N grid. You need to fill each cell of the grid with 1 or −1. You need to fill the grid in a way such that the following conditions are met :-
 
--For every column - (Sum of values present in the column) x (Product of values present in the column) < 0
--For every row - (Sum of values present in the row) x (Product of values present in the row) < 0
+1. For every column - (Sum of values present in the column) x (Product of values present in the column) < 0
+2. For every row - (Sum of values present in the row) x (Product of values present in the row) < 0
 
 It is guaranteed that there exists at least one way to fill the grid under given constraints such that both the conditions are satisifed. If there exists multiple ways to fill the grid by satisfying both the conditions, you can print any.
 
@@ -15,10 +15,10 @@ Output : -1 -1
 ```
 
 **Explanation**
--For each ROW, sum of elements is -2.
--For each ROW, product of elements is 1.
--For each COLUMN, sum of elements is -2.
--For each COLUMN, product of elements is 1.
+1. For each ROW, sum of elements is -2.
+2. For each ROW, product of elements is 1.
+3. For each COLUMN, sum of elements is -2.
+4. For each COLUMN, product of elements is 1.
 
 **Hence both the above mentioned condition is satisfied**
 
