@@ -12,8 +12,3 @@
 - Place: Ghaziabad, India
 - Bio: None
 - Github: [tanveerraza789](https://www.github.com/tanveerraza789)
-
-### **Name: Mihir Singh**
-- Place: Ghaziabad, India
-- Bio: None
-- Github: [squidrye](https://www.github.com/squidrye) 
