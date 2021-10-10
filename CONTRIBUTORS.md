@@ -13,12 +13,12 @@
 - Bio: None
 - Github: [tanveerraza789](https://www.github.com/tanveerraza789)
 
-### **Ayush Kumar**
+### **Name: Ayush Kumar**
 - Place: Ghaziabad, India
 - Bio: None
 - Github: [Ayush7614](https://www.github.com/Ayush7614)
 
-### **Harshit Rathore**
+### **Name: Harshit Rathore**
 - Place: Ghaziabad, India
 - Bio: Enjoying Linux
 - Github: [Harshit-rathore](https://github.com/Harshit-rathore)
