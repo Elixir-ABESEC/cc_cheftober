@@ -38,3 +38,8 @@
 - Bio: None
 - Github: [squidrye](https://github.com/squidrye)
 
+### **Name: Vishwas Saini**
+- Place: Rohtak, India
+- Bio: None
+- Github: [squidrye](https://github.com/Vishwas-10)
+
