@@ -1,3 +1,5 @@
+#Question Link
+#https://www.codechef.com/START12B/problems/MAKEDIV3
 t = int(input())
 while t > 0:
     n = int(input())
