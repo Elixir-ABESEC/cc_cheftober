@@ -22,3 +22,8 @@
 - Place: Ghaziabad, India
 - Bio: Enjoying Linux
 - Github: [Harshit-rathore](https://github.com/Harshit-rathore)
+
+### **Name: Mihir Singh**
+- Place: Ghaziabad, India
+- Bio: None
+- Github: [squidrye](https://github.com/squidrye)
