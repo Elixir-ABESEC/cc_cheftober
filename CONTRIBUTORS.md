@@ -22,3 +22,8 @@
 - Place: Ghaziabad, India
 - Bio: Enjoying Linux
 - Github: [Harshit-rathore](https://github.com/Harshit-rathore)
+
+### **Name: Prerna Dhiman**
+- Place: Ghaziabad, India
+- Bio: I Like to play Piano 
+- Github: [buggsaff](https://github.com/buggsaff)
