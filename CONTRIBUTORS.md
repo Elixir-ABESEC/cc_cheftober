@@ -1,3 +1,8 @@
+### **Name: Gourav Kumar Singh**
+- Place: Ghaziabad, India
+- Bio: Engineering Student
+- Github: [champgourav007](https://github.com/champgourav007)
+
 ### **Name: Vaibhav**
 - Place: Ghaziabad, India
 - Bio: eats french fries and sits on the couch
@@ -27,3 +32,9 @@
 - Place: Ghaziabad, India
 - Bio: I Like to play Piano 
 - Github: [buggsaff](https://github.com/buggsaff)
+
+### **Name: Mihir Singh**
+- Place: Ghaziabad, India
+- Bio: None
+- Github: [squidrye](https://github.com/squidrye)
+
