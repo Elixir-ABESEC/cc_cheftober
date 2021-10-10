@@ -22,3 +22,8 @@
 - Place: Ghaziabad, India
 - Bio: Enjoying Linux
 - Github: [Harshit-rathore](https://github.com/Harshit-rathore)
+
+#### Name: [Prasanna Agnihotri]
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio None
+- GitHub: [IamPrasanna482](https://github.com/IamPrasanna482)
