@@ -1,4 +1,4 @@
-## The Old Saint And Three Questions
+## Equal Difference
 You are given an array of `N` integers. Find the minimum number of integers you need to delete from the array such that the `absolute difference` between each pair of integers in the remaining array will become equal.
 
 **Examples**
