@@ -41,5 +41,5 @@
 ### **Name: Vishwas Saini**
 - Place: Rohtak, India
 - Bio: None
-- Github: [squidrye](https://github.com/Vishwas-10)
+- Github: [Vishwas-10](https://github.com/Vishwas-10)
 
