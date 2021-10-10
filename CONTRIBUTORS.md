@@ -28,7 +28,13 @@
 - Bio: Enjoying Linux
 - Github: [Harshit-rathore](https://github.com/Harshit-rathore)
 
+### **Name: Prerna Dhiman**
+- Place: Ghaziabad, India
+- Bio: I Like to play Piano 
+- Github: [buggsaff](https://github.com/buggsaff)
+
 ### **Name: Mihir Singh**
 - Place: Ghaziabad, India
 - Bio: None
 - Github: [squidrye](https://github.com/squidrye)
+
