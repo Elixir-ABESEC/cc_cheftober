@@ -1,3 +1,8 @@
+### **Name: Gourav Kumar Singh**
+- Place: Ghaziabad, India
+- Bio: Engineering Student
+- Github: [champgourav007](https://github.com/champgourav007)
+
 ### **Name: Vaibhav**
 - Place: Ghaziabad, India
 - Bio: eats french fries and sits on the couch
