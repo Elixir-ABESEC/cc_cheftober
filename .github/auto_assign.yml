@@ -1,0 +1,12 @@
+addReviewers: true
+
+addAssignees: false
+
+# A list of reviewers to be added to pull requests (GitHub user name)
+reviewers:
+  - tanveerraza789
+  - Ayush7614
+  
+skipKeywords:
+  - wip
+  - draft
