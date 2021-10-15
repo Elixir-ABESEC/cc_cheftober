@@ -1,5 +1,3 @@
-
-
 # Merge Sort
 
 A sorting technique based on the divide-and-conquer method of solving a problem.
