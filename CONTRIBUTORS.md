@@ -43,3 +43,7 @@
 - Bio: None
 - Github: [Vishwas-10](https://github.com/Vishwas-10)
 
+### **Name: Sonal Yadav**
+-Place: Allahabad, India
+-Bio: None
+-Github:[sonal3yadav](https://github.com/sonal3yadav)
