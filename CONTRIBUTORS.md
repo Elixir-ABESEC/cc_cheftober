@@ -43,3 +43,8 @@
 - Bio: None
 - Github: [Vishwas-10](https://github.com/Vishwas-10)
 
+### **Name: Tarushi Singh**
+- Place: Ghaziabad, India
+- Bio: None
+- Github: [tarushi0503](https://github.com/tarushi0503)
+
