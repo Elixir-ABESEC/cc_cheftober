@@ -10,8 +10,6 @@ we divide the given array into **three parts** and determine which has the key (
 **mid1 = l + (r-l)/3**  
 **mid2 = r – (r-l)/3**
 
-## Example
-![Example](ternary_search.png "example of ternary search")
 
 ## Steps to perform Ternary Search: 
 
