@@ -43,7 +43,14 @@
 - Bio: None
 - Github: [Vishwas-10](https://github.com/Vishwas-10)
 
+
 ### **Name: Sonal Yadav**
 -Place: Allahabad, India
 -Bio: None
--Github:[sonal3yadav](https://github.com/sonal3yadav)
+-Github: [sonal3yadav](https://github.com/sonal3yadav)
+=======
+### **Name: Tarushi Singh**
+- Place: Ghaziabad, India
+- Bio: None
+- Github: [tarushi0503](https://github.com/tarushi0503)
+
