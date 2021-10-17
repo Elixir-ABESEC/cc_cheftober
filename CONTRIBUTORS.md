@@ -54,3 +54,7 @@
 - Bio: None
 - Github: [tarushi0503](https://github.com/tarushi0503)
 
+### **Tanishq**
+- Place: Ghaziabad, India
+- Bio: Engineering Student
+- Github: [yoursouce](https://github.com/yoursauce)
